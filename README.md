@@ -1,8 +1,8 @@
 # Open_Cv
 What I Learned from OpenCV
+| Simple Techniques |
 
-Simple_Satellite_Image_Ehance.ipynb:
-
+Simple Satellite Image Ehance:
 How it works:
 + Converts frames to grayscale for intensity-focused optimization.
 + Applies CLAHE to improve local contrast while mitigating noise amplification.
